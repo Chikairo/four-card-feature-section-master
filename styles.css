@@ -33,6 +33,7 @@ body {
     height: calc(100vh - 1 );
     font-size: 15px;
     font-family: 'Poppins';
+    padding: 2rem;
 }
 
 .box {
